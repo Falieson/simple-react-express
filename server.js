@@ -1,4 +1,3 @@
-// WEBPACK
 import express from 'express';
 import morgan from 'morgan'
 import webpack from 'webpack';
